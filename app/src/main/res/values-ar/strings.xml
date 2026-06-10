@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">WPS قارئ PDF</string>
+    <string name="tab_recent">الحديثة</string>
+    <string name="tab_bookmarks">الإشارات المرجعية</string>
+    <string name="tab_search">البحث</string>
+    <string name="tab_settings">الإعدادات</string>
+    <string name="tab_library">المكتبة</string>
+    
+    <string name="search_hint">البحث في ملفات PDF...</string>
+    <string name="search_empty">لم يتم العثور على نتائج تطابق بحثك</string>
+    
+    <string name="permissions_title">إذن الوصول للملفات مطلوب</string>
+    <string name="permissions_desc">لقراءة وعرض ملفات PDF من جهازك، يتطلب هذا التطبيق إذن الوصول إلى وحدة التخزين. يرجى منح هذا الإذن.</string>
+    <string name="permissions_grant_btn">منح الإذن</string>
+    <string name="permissions_step_1">١. اضغط على الزر أدناه لطلب إذن الوصول لوحدة التخزين.</string>
+    <string name="permissions_step_2">٢. إذا لم يظهر الطلب، سنقوم بتوجيهك تلقائياً إلى إعدادات النظام.</string>
+    <string name="permissions_step_3">٣. قم بتفعيل خيار \"الوصول لجميع الملفات\" (أو السماح بالتخزين) لتطبيق WPS قارئ PDF.</string>
+    <string name="permissions_settings_toast">يرجى تفعيل إذن الوصول لجميع الملفات يدوياً من الإعدادات</string>
+    <string name="permissions_open_settings">افتح الإعدادات</string>
+    
+    <string name="no_recent_files">لم يتم العثور على ملفات PDF. اضغط على زر الإنشاء لإنشاء عينات PDF!</string>
+    <string name="no_bookmarks">لا توجد ملفات في الإشارات المرجعية بعد.</string>
+    
+    <string name="file_density">المستندات الأخيرة</string>
+    <string name="folders">المجلدات</string>
+    <string name="nav_drawer_title">WPS قارئ PDF</string>
+    
+    <string name="settings_section_general">الإعدادات العامة</string>
+    <string name="settings_section_read">تخصيص القراءة</string>
+    <string name="settings_section_permissions">أذونات التطبيق</string>
+    <string name="settings_dark_mode">الوضع الليلي (الداكن)</string>
+    <string name="settings_temp_brightness">سطوع الشاشة</string>
+    <string name="settings_help">المساعدة والدعم</string>
+    <string name="settings_about">حول تطبيق قارئ PDF</string>
+    <string name="settings_about_desc">قارئ PDF سريع واحترافي وخفيف الوزن ومصمم يشبه WPS Office.</string>
+    <string name="settings_sys_default">مظهر النظام الافتراضي</string>
+    
+    <string name="bookmark_added">تمت الإضافة إلى الإشارات المرجعية</string>
+    <string name="bookmark_removed">تمت الإزالة من الإشارات المرجعية</string>
+    <string name="pdf_viewer_toolbar">عرض المستند</string>
+    <string name="pdf_zoom">الزوم</string>
+    <string name="pdf_view_horizontal">العرض الأفقي</string>
+    <string name="pdf_view_vertical">العرض الرأسي</string>
+</resources>

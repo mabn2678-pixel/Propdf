@@ -1,0 +1,6 @@
+{
+  "name": "WPS PDF Reader",
+  "description": "A professional WPS-like PDF Reader for modern Android featuring a dark theme, library organization, bookmarks, global search, and a step-by-step files permission flow with RTL and German support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

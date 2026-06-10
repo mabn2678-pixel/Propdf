@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">WPS PDF Reader</string>
+    <string name="tab_recent">Zuletzt</string>
+    <string name="tab_bookmarks">Lesezeichen</string>
+    <string name="tab_search">Suchen</string>
+    <string name="tab_settings">Einstellungen</string>
+    <string name="tab_library">Bibliothek</string>
+    
+    <string name="search_hint">PDF-Dateien suchen...</string>
+    <string name="search_empty">Keine Suchergebnisse gefunden</string>
+    
+    <string name="permissions_title">Dateizugriff erforderlich</string>
+    <string name="permissions_desc">Um PDF-Dateien auf Ihrem Gerät anzuzeigen, benötigt diese App Zugriff auf den Speicher. Bitte erteilen Sie diese Berechtigung.</string>
+    <string name="permissions_grant_btn">Berechtigung erteilen</string>
+    <string name="permissions_step_1">1. Tippen Sie unten auf die Schaltfläche, um die Berechtigung anzufordern.</string>
+    <string name="permissions_step_2">2. Wenn die Aufforderung nicht erscheint, leiten wir Sie in die Einstellungen weiter.</string>
+    <string name="permissions_step_3">3. Aktivieren Sie \"Zugriff auf alle Dateien\" für den WPS PDF Reader.</string>
+    <string name="permissions_settings_toast">Bitte aktivieren Sie den Zugriff auf alle Dateien manuell in den Einstellungen.</string>
+    <string name="permissions_open_settings">Einstellungen öffnen</string>
+    
+    <string name="no_recent_files">Keine kürzlich geöffneten PDFs gefunden. Generieren Sie Beispieldokumente!</string>
+    <string name="no_bookmarks">Noch keine Lesezeichen gespeichert.</string>
+    
+    <string name="file_density">Kürzliche Dokumente</string>
+    <string name="folders">Ordner</string>
+    <string name="nav_drawer_title">WPS Office PDF</string>
+    
+    <string name="settings_section_general">Allgemeine Einstellungen</string>
+    <string name="settings_section_read">Lese-Konfigurationen</string>
+    <string name="settings_section_permissions">App-Berechtigungen</string>
+    <string name="settings_dark_mode">Nachtmodus (Dunkel)</string>
+    <string name="settings_temp_brightness">Bildschirmhelligkeit</string>
+    <string name="settings_help">Hilfe &amp; Feedback</string>
+    <string name="settings_about">Über WPS PDF Reader</string>
+    <string name="settings_about_desc">Ein schneller, professioneller und leichtgewichtiger PDF Reader im Stil von WPS Office.</string>
+    <string name="settings_sys_default">Systemstandard-Thema</string>
+    
+    <string name="bookmark_added">Zum Lesezeichen hinzugefügt</string>
+    <string name="bookmark_removed">Aus Lesezeichen entfernt</string>
+    <string name="pdf_viewer_toolbar">Dokumentenansicht</string>
+    <string name="pdf_zoom">Zoom</string>
+    <string name="pdf_view_horizontal">Horizontale Ansicht</string>
+    <string name="pdf_view_vertical">Vertikale Ansicht</string>
+</resources>
